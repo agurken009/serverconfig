@@ -13,9 +13,6 @@
 <gs:LocationPreferences> 
     <gs:GeoID Value="177"/> 
 </gs:LocationPreferences>
-<gs:MUILanguagePreferences>
-	<gs:MUILanguage Value="nb-NO"/>
-	</gs:MUILanguagePreferences>
 <!-- input preferences -->
 <gs:InputPreferences>
     <!--nb-NO-->
